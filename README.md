@@ -44,12 +44,29 @@ This analysis concludes that immigration does not appear to drive crime growth i
 - Using machine learning to model more complex relationships and predictive insights.
 
 ## Repository Structure
-- `data/`: Contains raw and cleaned datasets.
-- `notebooks/`: Jupyter notebooks for data preparation, analysis, and visualization.
-- `visualizations/`: Generated plots and figures used in the analysis.
-- `presentation/`: Final presentation slides summarizing findings.
+- `02 data/`: Contains raw and cleaned datasets.
+- `/03 Scripts`: Jupyter notebooks for data preparation, analysis, and visualization.
+- `04 visualizations/`: Generated plots and figures used in the analysis.
+- `05 presented to client/`: Final presentation slides summarizing findings.
 - `README.md`: Project description and documentation.
 
 ## Acknowledgments
 Data sources include Eurostat and the World Bank. Special thanks to all contributors and reviewers who provided valuable insights.
+
+## Project Overview
+![Project Overview](assets/project_overview.png)
+*Description*: High-level overview of the project goals and analysis areas.
+
+## Methodology
+![Methodology](assets/methodology.png)
+*Description*: Data preparation steps, including sourcing, filtering, and aligning data.
+
+## Crime vs Immigration Growth
+![Crime vs Immigration Growth](assets/crime_vs_immigration_growth.png)
+*Description*: Trends between crime growth and immigration growth in Italy, Germany, and France.
+
+## Conclusions
+![Conclusions and Insights](assets/conclusions.png)
+*Description*: Key insights and policy recommendations.
+
 
